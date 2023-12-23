@@ -1,3 +1,5 @@
+> support cdn for markdown-it-pangu
+
 # markdown-it-pangu
 
 [![Build Status](https://travis-ci.org/Shigma/markdown-it-pangu.svg?branch=master)](https://travis-ci.org/Shigma/markdown-it-pangu)
