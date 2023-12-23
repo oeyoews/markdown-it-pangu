@@ -7,5 +7,9 @@ export default defineBuildConfig({
   clean: true,
   rollup: {
     emitCJS: true,
+    esbuild: {
+      minify: true,
+    },
   },
+  failOnWarn: false,
 });

@@ -21,9 +21,7 @@
     "url": "https://github.com/oeyoews/markdown-it-pangu.git"
   },
   "devDependencies": {
-    "unbuild": "^2.0.0"
-  },
-  "dependencies": {
+    "unbuild": "^2.0.0",
     "markdown-it": "^8.4.2",
     "pangu": "^4.0.7"
   },
